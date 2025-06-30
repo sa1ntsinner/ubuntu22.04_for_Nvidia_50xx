@@ -51,8 +51,8 @@ Then boot your PC from the USB stick.
 
 ### 🔽 Download
 
-[⬇️ Download ISO file]([https://github.com/your-username/your-repo-name/releases](https://archive.org/details/ubuntu-22.04.5-2025.07.01-desktop-amd64))  
-*(Upload the ISO under the “Releases” tab of your GitHub repo)*
+[⬇️ Download ISO file](https://archive.org/details/ubuntu-22.04.5-2025.07.01-desktop-amd64)  
+*The ISO is hosted on Archive.org because GitHub does not support files larger than 2 GB.*
 
 ---
 
